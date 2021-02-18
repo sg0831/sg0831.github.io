@@ -23,7 +23,7 @@ name                     : "Seunggyun"
 description              : "My life keeps developing."
 url                      : "https://sg0831.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sg0831/sg0831.github.io/"
+repository               : "sg0831/sg0831.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
