@@ -1,10 +1,8 @@
 ---
 title: "[django] 간단한 restful API 만들기(Create a simple restful API) - (1)"
 excerpt: "가상환경 설정 및 필요한 프레임워크 설치"
-categories:
-- 미니 프로젝트(Mini project)
-tags:
-- [장고, 레스트풀, 백엔드, 메모, 앱, django, rest api, restful api, backend, memo, app]
+categories: 미니 프로젝트(Mini project)
+tags: [장고, 레스트풀, 백엔드, 메모, 앱, django, rest api, restful api, backend, memo, app]
 toc: true
 toc_sticky: true
 date: 2021-02-17
