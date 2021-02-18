@@ -23,7 +23,7 @@ name                     : "Seunggyun"
 description              : "My life keeps developing."
 url                      : "https://sg0831.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sg0831/sg0831.github.io/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -97,7 +97,7 @@ author:
   name             : "정승균(Seunggyun Jung)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "멈추지 않고 계속 나아가겠습니다. (I keep going without stopping.)"
-  location         : "Somewhere"
+  location         : "대한민국 서울 거주(Seoul, Korea)"
   email            : "dev.sg0831@gmail.com"
   links:
     - label: "Email"

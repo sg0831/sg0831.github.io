@@ -1,7 +1,7 @@
 ---
 title: "블로그 시작(Start my blog)"
 excerpt: "github에 블로그를 개설하고 처음으로 올리는 포스트"
-categories: 라이프 노트(My life note)
+categories: [라이프 노트(My life note)]
 tags: [Blog, jekyll, Github, Git, 블로그, 깃, 깃허브]
 toc: true
 toc_sticky: true
