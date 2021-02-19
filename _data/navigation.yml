@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  - title: "카테고리"
+  - title: "카테고리(Posts by Category)"
     url: /categories/
   - title: "나의 인생 노트(My life note)"
     url: /categories/my-life-note/
