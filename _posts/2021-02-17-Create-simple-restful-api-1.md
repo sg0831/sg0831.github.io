@@ -1,15 +1,15 @@
 ---
 title: "[django] 간단한 restful API 만들기(Create a simple restful API) - (1)"
 excerpt: "가상환경 설정 및 필요한 프레임워크 설치"
-categories: [미니 프로젝트(Mini project)]
+categories: [Mini project]
 tags: [장고, 레스트풀, 백엔드, 메모, 앱, django, rest api, restful api, backend, memo, app]
 toc: true
 toc_sticky: true
 date: 2021-02-17
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-21
 ---
 
-# [django] 간단한 restful API 만들기
+# [django] 간단한 restful API 만들기(Create a simple restful API) - (1)
 
 ## 프로젝트 시작 동기
 이번에 대학 동기와 함께 코딩 공부를 진행하게 되었다.   
@@ -21,19 +21,19 @@ last_modified_at: 2021-02-19
 ## 사용할 기술
 백엔드(Backend)는 그나마 사용해본 경험이 있는 python과 django 프레임워크를 사용하기로 결정했다.   
 이번에는 웹페이지와 통신하는 게 아니라 모바일 앱으로 통신할 것이기에 restful API를 만들어볼 예정.   
-***
+   
 
 ## 프로젝트 시작
 먼저 장고 프로젝트를 생성하기 전, 가상환경을 설정해줘야 한다.   
 
-* python -m venv django-memo
+* python -m venv restVenv
 
-맨 뒤에 오는 부분이 바로 이 **가상환경의 이름** 이다.   
+맨 뒤에 오는 부분이 바로 이 ** 가상환경의 이름 ** 이다.   
 보통 한 프로젝트당 하나의 가상환경을 사용한다.   
    
-가상환경을 만들었으니 **가상환경을 실행** 해보자.   
+가상환경을 만들었으니 ** 가상환경을 실행 ** 해보자.   
 방금 만들어진 가상환경 폴더(django-memo) 안으로 이동.   
-**Scripts\activate** 라는 파일을 실행해주면 가상환경이 실행된다.   
+** Scripts\activate ** 라는 파일을 실행해주면 가상환경이 실행된다.   
    
 * Scripts\activate
 

@@ -1,5 +1,5 @@
 ---
-title: "나의 인생 노트(My life note)"
+title: "My life note"
 layout: category
 permalink: /categories/my-life-note/
 author_profile: true

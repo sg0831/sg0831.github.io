@@ -1,5 +1,5 @@
 ---
-title: "미니 프로젝트(Mini project)"
+title: "Mini project"
 layout: category
 permalink: /categories/mini-project/
 author_profile: true
